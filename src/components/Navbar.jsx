@@ -1,11 +1,7 @@
 // import Image0 from '/Images/Image0.3.png';
-import { Link } from 'react-scroll';
 import { NavLink } from 'react-router-dom';
 import { useState } from 'react';
 import { Menu, X } from 'lucide-react';
-import { AiOutlineHome } from "react-icons/ai";
-import { MdAddShoppingCart } from "react-icons/md";
-import { MdOutlinePersonSearch } from "react-icons/md";
 
 const NavLinks = () => {
     return (

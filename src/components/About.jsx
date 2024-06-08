@@ -5,6 +5,7 @@ export default function About() {
                 <img
                     src='./Images/td1.jpeg'
                     className="w-full h-auto pt-24 md:pt-6"
+                    alt="Image"
                 />
             </div>
 
