@@ -1,22 +1,21 @@
 export default function About() {
     return (
         <div className="flex md:flex-col-reverse">
-            <div className='py-6'>
-                <img
-                    src='./Images/td1.jpeg'
-                    className="w-full h-auto pt-24 md:pt-6"
-                    alt="Thimpu"
-                />
-            </div>
 
             <div>
                 <h1 className="font-extrabold text-3xl py-6 text-slate-800">About Us</h1>
-                <p> <p className="text-xl font-light text-left pl-10">
-                    Welcome to our Tourism website, your go-to digital platform for all your travel needs. Our mission is to provide a seamless and enriching experience from planning your trip to exploring your destination. With a user-friendly interface, we offer comprehensive information on travel destinations, accommodations, local attractions, and activities.
-                    <br />
-                    We prioritize user engagement through features like reviews, ratings, and personalized recommendations, ensuring authentic insights and tailor-made suggestions. Our platform includes various travel guides, tips, and itineraries to help you create personalized adventures, whether you're seeking a beach getaway, a mountain trek, or a cultural immersion.
-                    <br />
-                    More than just a planning tool, we aim to build a vibrant online community of travelers. By sharing stories and experiences, we inspire and empower travelers worldwide to embark on their dream journeys. Join us and discover the world like never before, with our comprehensive and intuitive travel website as your guide.
+                <p> <p className="text-xl font-light text-center p-10">
+                Embark on a transformative journey with Karma Tours, where every step promises not just an adventure, but an opportunity to shape the world around you. Founded on the principle of conscious travel, Karma Tours invites you to explore destinations while leaving a positive impact on communities and environments alike.
+
+At Karma Tours, we believe that travel is more than just sightseeing; it's about fostering connections, respecting cultures, and preserving nature. With this ethos at our core, we curate experiences that blend adventure with purpose, ensuring that every moment spent with us is meaningful.
+
+Our diverse range of tours spans the globe, from the bustling streets of Marrakech to the serene landscapes of New Zealand. Whether you're seeking an adrenaline rush through jungle treks or a tranquil retreat in secluded villages, Karma Tours offers something for every kind of traveler.
+
+But what truly sets us apart is our commitment to responsible tourism. We work closely with local communities to ensure that our presence brings about positive change. From supporting sustainable livelihoods to participating in conservation efforts, we strive to leave destinations better than we found them.
+
+Join us on a journey where your wanderlust meets a higher purpose. Whether you're volunteering at a wildlife sanctuary, immersing yourself in cultural exchanges, or simply savoring the beauty of untouched landscapes, Karma Tours promises an experience that will enrich your soul and leave a lasting legacy of kindness and compassion.
+
+Come, explore the world with intention, and let Karma Tours be your guide to meaningful travel. Because every adventure has the power to change lives – including yours.
                 </p></p>
             </div>
         </div>
